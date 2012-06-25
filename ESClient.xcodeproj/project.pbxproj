@@ -24,25 +24,25 @@
 
 /* Begin PBXBuildFile section */
 		A7952D9D1598BE6600590CAA /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A7952D9C1598BE6600590CAA /* Foundation.framework */; };
-		A7952DE91598BEEC00590CAA /* ESBoolQuery.h in Headers */ = {isa = PBXBuildFile; fileRef = A7952DD41598BEEC00590CAA /* ESBoolQuery.h */; };
+		A7952DE91598BEEC00590CAA /* ESBoolQuery.h in Headers */ = {isa = PBXBuildFile; fileRef = A7952DD41598BEEC00590CAA /* ESBoolQuery.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		A7952DEA1598BEEC00590CAA /* ESBoolQuery.m in Sources */ = {isa = PBXBuildFile; fileRef = A7952DD51598BEEC00590CAA /* ESBoolQuery.m */; };
-		A7952DEB1598BEEC00590CAA /* ESQuery.h in Headers */ = {isa = PBXBuildFile; fileRef = A7952DD61598BEEC00590CAA /* ESQuery.h */; };
+		A7952DEB1598BEEC00590CAA /* ESQuery.h in Headers */ = {isa = PBXBuildFile; fileRef = A7952DD61598BEEC00590CAA /* ESQuery.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		A7952DEC1598BEEC00590CAA /* ESQuery.m in Sources */ = {isa = PBXBuildFile; fileRef = A7952DD71598BEEC00590CAA /* ESQuery.m */; };
-		A7952DED1598BEEC00590CAA /* ESQueryString.h in Headers */ = {isa = PBXBuildFile; fileRef = A7952DD81598BEEC00590CAA /* ESQueryString.h */; };
+		A7952DED1598BEEC00590CAA /* ESQueryString.h in Headers */ = {isa = PBXBuildFile; fileRef = A7952DD81598BEEC00590CAA /* ESQueryString.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		A7952DEE1598BEEC00590CAA /* ESQueryString.m in Sources */ = {isa = PBXBuildFile; fileRef = A7952DD91598BEEC00590CAA /* ESQueryString.m */; };
-		A7952DEF1598BEEC00590CAA /* ESRangeQuery.h in Headers */ = {isa = PBXBuildFile; fileRef = A7952DDA1598BEEC00590CAA /* ESRangeQuery.h */; };
+		A7952DEF1598BEEC00590CAA /* ESRangeQuery.h in Headers */ = {isa = PBXBuildFile; fileRef = A7952DDA1598BEEC00590CAA /* ESRangeQuery.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		A7952DF01598BEEC00590CAA /* ESRangeQuery.m in Sources */ = {isa = PBXBuildFile; fileRef = A7952DDB1598BEEC00590CAA /* ESRangeQuery.m */; };
-		A7952DF11598BEEC00590CAA /* ESRequest.h in Headers */ = {isa = PBXBuildFile; fileRef = A7952DDC1598BEEC00590CAA /* ESRequest.h */; };
+		A7952DF11598BEEC00590CAA /* ESRequest.h in Headers */ = {isa = PBXBuildFile; fileRef = A7952DDC1598BEEC00590CAA /* ESRequest.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		A7952DF21598BEEC00590CAA /* ESRequest.m in Sources */ = {isa = PBXBuildFile; fileRef = A7952DDD1598BEEC00590CAA /* ESRequest.m */; };
-		A7952DF31598BEEC00590CAA /* ESWrapper.h in Headers */ = {isa = PBXBuildFile; fileRef = A7952DDE1598BEEC00590CAA /* ESWrapper.h */; };
+		A7952DF31598BEEC00590CAA /* ESWrapper.h in Headers */ = {isa = PBXBuildFile; fileRef = A7952DDE1598BEEC00590CAA /* ESWrapper.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		A7952DF41598BEEC00590CAA /* ESWrapper.m in Sources */ = {isa = PBXBuildFile; fileRef = A7952DDF1598BEEC00590CAA /* ESWrapper.m */; };
-		A7952DF51598BEEC00590CAA /* ESHit.h in Headers */ = {isa = PBXBuildFile; fileRef = A7952DE11598BEEC00590CAA /* ESHit.h */; };
+		A7952DF51598BEEC00590CAA /* ESHit.h in Headers */ = {isa = PBXBuildFile; fileRef = A7952DE11598BEEC00590CAA /* ESHit.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		A7952DF61598BEEC00590CAA /* ESHit.m in Sources */ = {isa = PBXBuildFile; fileRef = A7952DE21598BEEC00590CAA /* ESHit.m */; };
-		A7952DF71598BEEC00590CAA /* ESHitMetrics.h in Headers */ = {isa = PBXBuildFile; fileRef = A7952DE31598BEEC00590CAA /* ESHitMetrics.h */; };
+		A7952DF71598BEEC00590CAA /* ESHitMetrics.h in Headers */ = {isa = PBXBuildFile; fileRef = A7952DE31598BEEC00590CAA /* ESHitMetrics.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		A7952DF81598BEEC00590CAA /* ESHitMetrics.m in Sources */ = {isa = PBXBuildFile; fileRef = A7952DE41598BEEC00590CAA /* ESHitMetrics.m */; };
-		A7952DF91598BEEC00590CAA /* ESResponse.h in Headers */ = {isa = PBXBuildFile; fileRef = A7952DE51598BEEC00590CAA /* ESResponse.h */; };
+		A7952DF91598BEEC00590CAA /* ESResponse.h in Headers */ = {isa = PBXBuildFile; fileRef = A7952DE51598BEEC00590CAA /* ESResponse.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		A7952DFA1598BEEC00590CAA /* ESResponse.m in Sources */ = {isa = PBXBuildFile; fileRef = A7952DE61598BEEC00590CAA /* ESResponse.m */; };
-		A7952DFB1598BEEC00590CAA /* ESShards.h in Headers */ = {isa = PBXBuildFile; fileRef = A7952DE71598BEEC00590CAA /* ESShards.h */; };
+		A7952DFB1598BEEC00590CAA /* ESShards.h in Headers */ = {isa = PBXBuildFile; fileRef = A7952DE71598BEEC00590CAA /* ESShards.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		A7952DFC1598BEEC00590CAA /* ESShards.m in Sources */ = {isa = PBXBuildFile; fileRef = A7952DE81598BEEC00590CAA /* ESShards.m */; };
 		A7952E171598C05A00590CAA /* CFNetwork.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A7952E161598C05A00590CAA /* CFNetwork.framework */; };
 		A7952E191598C06100590CAA /* CoreData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A7952E181598C06100590CAA /* CoreData.framework */; };
@@ -697,6 +697,7 @@
 				A7952DA81598BE6600590CAA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A7952E291598C36E00590CAA /* Build configuration list for PBXAggregateTarget "Framework" */ = {
 			isa = XCConfigurationList;
@@ -705,6 +706,7 @@
 				A7952E2B1598C36E00590CAA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A7952E3D1598C4BE00590CAA /* Build configuration list for PBXNativeTarget "ESClientResources" */ = {
 			isa = XCConfigurationList;
@@ -713,6 +715,7 @@
 				A7952E3F1598C4BE00590CAA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
