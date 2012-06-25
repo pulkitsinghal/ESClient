@@ -8,6 +8,16 @@
 
 #import <Foundation/Foundation.h>
 
-@interface ESClient : NSObject
+// request objects
+#import "ESRequest.h"
+#import "ESQuery.h"
+#import "ESQueryString.h"
+#import "ESBoolQuery.h"
+#import "ESWrapper.h"
+#import "ESRangeQuery.h"
 
-@end
+// response objects
+#import "ESHit.h"
+#import "ESHitMetrics.h"
+#import "ESResponse.h"
+#import "ESShards.h"
