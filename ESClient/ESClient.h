@@ -9,15 +9,15 @@
 #import <Foundation/Foundation.h>
 
 // request objects
-#import "ESRequest.h"
-#import "ESQuery.h"
-#import "ESQueryString.h"
-#import "ESBoolQuery.h"
-#import "ESWrapper.h"
-#import "ESRangeQuery.h"
+#import <ESClient/ESRequest.h>
+#import <ESClient/ESQuery.h>
+#import <ESClient/ESQueryString.h>
+#import <ESClient/ESBoolQuery.h>
+#import <ESClient/ESWrapper.h>
+#import <ESClient/ESRangeQuery.h>
 
 // response objects
-#import "ESHit.h"
-#import "ESHitMetrics.h"
-#import "ESResponse.h"
-#import "ESShards.h"
+#import <ESClient/ESHit.h>
+#import <ESClient/ESHitMetrics.h>
+#import <ESClient/ESResponse.h>
+#import <ESClient/ESShards.h>
