@@ -1,4 +1,4 @@
 .DS_Store
-ElasticSearchClient.xcodeproj/xcuserdata/*
-ElasticSearchClient.xcodeproj/project.xcworkspace/xcuserdata/*
+ESClient.xcodeproj/xcuserdata
+ESClient.xcodeproj/project.xcworkspace/xcuserdata
 DerivedData
